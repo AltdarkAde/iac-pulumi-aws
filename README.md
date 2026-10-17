@@ -6,7 +6,7 @@ A hands-on project where I learn **Infrastructure as Code (IaC)** by building re
 
 | Lab | Topic | Status |
 |-----|-------|--------|
-| [Lab 1](lab-1-s3-bucket/README.md) | Provisioning Infrastructure with an S3 Bucket | In progress |
+| [Lab 1](lab-1-s3-bucket/README.md) | Provisioning Infrastructure with an S3 Bucket | Complete |
 | Lab 2 | Provisioning EC2 Virtual Machines | Planned |
 | Lab 3 | Deploying Docker Images to ECS & Fargate | Planned |
 
@@ -24,6 +24,7 @@ See **[docs/setup.md](docs/setup.md)** for the full walkthrough.
 | AWS CLI | 2.38.1 |
 | OS | Ubuntu 24.04 |
 | Language | Python |
+| AWS region | eu-north-1 (Stockholm) |
 
 ## Repository Structure
 
